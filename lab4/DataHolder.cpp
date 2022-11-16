@@ -3,7 +3,6 @@
 DataHolder::DataHolder()
 {
 	setAmount("Uknown");
-	std::cout << "1";
 }
 
 DataHolder::~DataHolder(void)

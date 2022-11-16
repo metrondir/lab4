@@ -1,0 +1,12 @@
+OpticalDisc: 
+	Amount: 2TB
+	Generation number 2
+	Access time: 250
+	Data transfer time: 1.2MB
+	Type: CD-ROM
+Winchester: 
+	Amount: 3TB
+	Number of cylinders: 12
+	Number of tracks: 3
+	Number of sectors: 3
+	Brand name: WD

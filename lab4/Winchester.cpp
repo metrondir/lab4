@@ -59,7 +59,7 @@ std::ostream& operator<<(std::ostream& os, const Winchester& so)
 
 std::istream& operator>>(std::istream& is, Winchester& so)
 {
-	std::cout << "Enter amount of optical disc: \n";
+	std::cout << "Enter amount of Winchester: \n";
 	is >> so.Amount;
 	so.setAmount(so.Amount);
 	std::cout << "Enter number of cylinders: \n";

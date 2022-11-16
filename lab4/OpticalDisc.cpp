@@ -7,7 +7,6 @@ OpticalDisc::OpticalDisc()
 	setAccessTime(80);
 	setDataTransferRate("Uknown");
 	setType("Uknown");
-	std::cout << "2";
 }
 
 OpticalDisc::~OpticalDisc(void)
