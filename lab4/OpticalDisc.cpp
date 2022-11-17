@@ -26,7 +26,7 @@ void OpticalDisc::setGenerationNum(int value)
 
 			else
 			{
-				throw("");
+				throw("Such a generation number does not exist");
 			}
 
 		}
